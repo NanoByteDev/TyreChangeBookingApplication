@@ -9,6 +9,7 @@ This project is a Spring Boot application that provides a backend API for a tyre
 - Book appointments for tyre changes
 - Support for different vehicle types
 - Integration with external APIs for different workshops
+- Link to the external APIs this is made to work with https://github.com/Surmus/tire-change-workshop?tab=readme-ov-file
 
 ## Technologies Used
 
