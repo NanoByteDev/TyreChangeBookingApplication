@@ -1,0 +1,17 @@
+app:
+  workshops:
+    - name: Manchester
+      address: 14 Bury New Rd, Manchester
+      vehicleTypes: 
+        - passenger car
+        - lorry
+      apiUrl: http://localhost:9004
+      apiVersion: "2"
+      xmlApi: false
+    - name: London
+      address: 1A Gunton Rd, London
+      vehicleTypes:
+        - passenger car
+      apiUrl: http://localhost:9003
+      apiVersion: "1"
+      xmlApi: true
