@@ -9,8 +9,6 @@ public class TyreWorkshop {
     private String apiUrl;
     private String apiVersion;
     private boolean xmlApi;
-
-    // Getters and setters
     
    // Getters and setters
    public String getName() {

@@ -63,8 +63,8 @@ public class ExternalApiService {
                    .queryParam("until", until);
         } else if ("2".equals(workshop.getApiVersion())) {
             builder.queryParam("from", from)
-                   .queryParam("amount", 100)  // Adjust as needed
-                   .queryParam("page", 1);     // Start with page 1
+                   .queryParam("amount", 100)
+                   .queryParam("page", 1);
         }
 
         HttpEntity<?> entity = new HttpEntity<>(headers);
