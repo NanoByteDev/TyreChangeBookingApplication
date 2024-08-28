@@ -27,16 +27,11 @@ This project is a Spring Boot application that provides a backend API for a tyre
 ## Backend
 
 Ensure you have Java 17 and Maven installed on your system.
-Clone this repository
-
-Navigate to the project directory:
-cd tyre-change-booking-system
-
-Build the project:
-mvn clean install
-
-Run the application:
-mvn spring-boot:run
+1. Navigate to the backend directory
+2. Run the application: 
+    ```
+    mvn spring-boot:run
+    ```
 
 ## Frontend
 
