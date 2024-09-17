@@ -16,7 +16,6 @@ This project is a Spring Boot application that provides a backend API for a tyre
 - Java 17
 - Spring Boot 3.3.3
 - Maven
-- PostgreSQL (for database)
 - Vue.js (for frontend)
 
 ## API Endpoints
