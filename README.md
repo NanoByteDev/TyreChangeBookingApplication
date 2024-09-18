@@ -1,6 +1,6 @@
 # Tyre Change Booking System
 
-This project is a Spring Boot application that provides a backend API for a tyre change booking system. It allows users to view available workshops, check available time slots, and book appointments for tyre changes.
+This project is a Spring Boot application that provides a backend API for a tyre change booking system. It allows users to view available workshops, check available time slots, and book appointments for tyre changes. This application was initially developed as part of a take-home coding assignment for a job application, demonstrating skills in Spring Boot, API design, and integration with external services.
 
 ## Features
 
