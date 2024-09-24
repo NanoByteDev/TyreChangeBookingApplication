@@ -28,7 +28,10 @@ This project is a Spring Boot application that provides a backend API for a tyre
 
 Ensure you have Java 17 and Maven installed on your system.
 1. Navigate to the backend directory
-2. Run the application: 
+   ```
+   cd Backend\tyrechange
+   ```
+3. Run the application: 
     ```
     mvn spring-boot:run
     ```
@@ -39,7 +42,7 @@ The frontend is built with Vue.js. To run the frontend:
 
 1. Navigate to the frontend directory:
    ```
-   cd frontend
+   cd Frontend\tyre-booking-app
    ```
 2. Install dependencies:
    ```
@@ -47,7 +50,7 @@ The frontend is built with Vue.js. To run the frontend:
    ```
 3. Run the development server:
    ```
-   npm run serve
+   npm run dev
    ```
 
 ## Configuration
